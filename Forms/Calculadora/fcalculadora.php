@@ -21,6 +21,8 @@
 
         <input type="submit" value="Enviar" />
         <input type="reset" value="Borrar" />
+        <br/>
+        <br/>
 
     </form>
 </body>
